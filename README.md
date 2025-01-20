@@ -39,7 +39,7 @@ Domain bilgileri WHOIS API'den alınarak, çeşitli kriterlere göre hesaplanan 
 - **README.txt**: Bu dosya, proje hakkında bilgi verir.
 
 ## WHOIS API:
-Bu proje için kullanılan API: https://who-dat.as93.net/url  
+Bu proje için kullanılan API: [Whois](https://whois-psi-eight.vercel.app/)  
 API'den alınan veriler JSON formatındadır ve aşağıdaki gibi bir yapıdadır:
 
 ```json
