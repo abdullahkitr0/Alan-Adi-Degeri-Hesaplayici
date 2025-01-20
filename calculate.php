@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $authority = intval($_POST['authority']);
 
     // WHOIS API'sini kullanarak domain bilgilerini al
-    $whois_api_url = "https://who-dat.as93.net/$domain";
+    $whois_api_url = "https://whois-psi-eight.vercel.app/$domain";
     
     // cURL ile API'ye istek gönder
     $ch = curl_init();
